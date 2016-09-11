@@ -4,9 +4,10 @@ UPDATED WEEKLY!
 --Version 1.002: Sept. 11--
 •Fixed prices and links
 •Deleted alarm clock
+•Added Oklahoma Sooners sticker and truffles
 
 --Version 1.0012: Sept. 10--
-•Added Home Sticker
+•Added Home sticker
 •Added total
 
 --Version 1.001: Sept. 8--
