@@ -1,4 +1,9 @@
-Zephan's 2016 Birthday List Change Log
+Zephan's 2016 Birthday List Change Log 
+UPDATED WEEKLY!
+
+--Version 1.002: Sept. 11--
+•Fixed prices and links
+•Deleted alarm clock
 
 --Version 1.0012: Sept. 10--
 •Added Home Sticker
