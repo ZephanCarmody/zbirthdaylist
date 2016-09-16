@@ -1,10 +1,15 @@
 Zephan's 2016 Birthday List Change Log 
 UPDATED WEEKLY!
 
+--Version 1.01: Sept. 16--
+ •*Added ranking with pictures*
+ COMMING SOON: Pictures of all items! :)
+
 --Version: 1.003: Sept. 13--
 •*Added Countdown til birthday!* 1 month to go!
 •Fixed bugs not letting people see my list
 •Added Sanuk Shoes
+•Changed boring comming soon lables
 •*NEW Added poll*
 
 
@@ -23,6 +28,6 @@ UPDATED WEEKLY!
 COMING SOON: Ranking of all items
 
 --Version 1.00: Sept. 4--
-•INITIAL RELEASE
+•INITIAL RELEASE OF BETA
 
 THANK YOU FOR TAKING THE TIME TO READ!
