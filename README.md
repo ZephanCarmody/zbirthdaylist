@@ -3,7 +3,8 @@ UPDATED WEEKLY!
 
 --Version 1.01: Sept. 16--
  •*Added ranking with pictures*
- !!Major Update COMING IN FUTURE!!:)
+ •Added colors
+ !!Major Update COMING IN FUTURE!! With hidden sneak peeks
 
 --Version: 1.003: Sept. 13--
 •*Added Countdown til birthday!* 1 month to go!
