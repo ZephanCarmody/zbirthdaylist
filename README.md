@@ -5,6 +5,7 @@ UPDATED WEEKLY!
 •Added tons of stuff Visa/Cash, Jacket, and Clock
 •Minor graphic changes
 •Muliple fixes including price
+*NEW platform- Word Online*
 
 --Version 1.01: Sept. 16--
  •*New feature ranking of all items*
