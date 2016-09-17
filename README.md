@@ -4,7 +4,7 @@ UPDATED WEEKLY!
 --Version 1.014: Sept. 17--
 •Added Visa/Cash, Urban Pipeline Jacket
 •
-•Fixed price
+•Muliple fixes including price
 
 --Version 1.01: Sept. 16--
  •*Added ranking with pictures*
