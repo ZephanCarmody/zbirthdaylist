@@ -1,6 +1,11 @@
 Zephan's 2016 Birthday List Change Log 
 UPDATED WEEKLY!
 
+--Version 1.014: Sept. 17--
+•Added Visa/Cash, Urban Pipeline Jacket
+•
+•Fixed price
+
 --Version 1.01: Sept. 16--
  •*Added ranking with pictures*
  •Added colors and updated pictures
