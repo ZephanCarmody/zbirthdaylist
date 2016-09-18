@@ -1,6 +1,9 @@
 Zephan's 2016 Birthday List Beta Change Log 
 UPDATED WEEKLY!
 
+--Version 1.01531: Sept. 18--
+•Updated Urban Pipeline Jacket
+
 --Version 1.0153: Sept. 17--
 •Added tons of stuff Visa/Cash, Jacket, and Clock
 •Minor graphic changes
@@ -35,6 +38,6 @@ UPDATED WEEKLY!
 COMING SOON: Ranking of all items
 
 --Version 1.00: Sept. 4--
-•INITIAL RELEASE OF BETA VERSION
+•INITIAL RELEASE OF BETA
 
 THANK YOU FOR TAKING THE TIME TO READ AND PLEASE EMAIL ME WITH ANY QUESTIONS!!
