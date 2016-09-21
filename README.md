@@ -1,6 +1,9 @@
 Zephan's 2016 Birthday List Beta Change Log 
 UPDATED WEEKLY!
 
+-- Version 1.0154: Sept. 20--
+•New survey to help me serve you better
+
 --Version 1.01531: Sept. 18--
 •Updated Urban Pipeline Jacket
 
