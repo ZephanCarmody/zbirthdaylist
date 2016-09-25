@@ -9,7 +9,7 @@ Get ready for this HUGE spooky new update:
 •Bugs fixed on Word Online
 •Fixed bug on countdown
 •The witch has been reasled! NEW Halloween theme!
-•Added  and updated ranking
+•Added Be Awesome and updated ranking/price
 Questions? Email me at zephan777@yahoo.com
 
 --Version 1.0155: Sept. 24--
