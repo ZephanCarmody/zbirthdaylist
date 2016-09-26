@@ -8,7 +8,7 @@ Get ready for this HUGE spooky new update:
 •Updated prices
 •Bugs fixed on Word Online
 •Fixed bug on countdown
-•The witch has been reasled! NEW Halloween theme!
+•The witch has been reasled! NEW Halloween theme and ghostly new font!
 •Added Be Awesome and updated ranking/price
 Questions? Email me at zephan777@yahoo.com
 
