@@ -3,8 +3,10 @@ UPDATED BIWEEKLY!
 
 --Version 1.1 Sept.29--
 13 DAYS UNTIL 13th BIRTHDAY!
-*SAY GOODBYE TO BETA!
+•THE BIRTHDAY LIST IS NOW FINAL!
+•SAY GOODBYE TO BETA!
 ~That means the Birthday List is now officially avaliable to everyone!
+•Minor changes
 
 --Version 1.09: Sept. 25--
 Get ready for this HUGE spooky new update:
