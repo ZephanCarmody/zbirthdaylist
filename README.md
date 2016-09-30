@@ -1,7 +1,12 @@
-Zephan's 2016 Birthday List Beta Change Log 
+Zephan's 2016 Birthday List Change Log 
 UPDATED BIWEEKLY!
 
---Version 1.1: Sept. 25--
+--Version 1.1 Sept.29--
+13 DAYS UNTIL 13th BIRTHDAY!
+*SAY GOODBYE TO BETA!
+~That means the Birthday List is now officially avaliable to everyone!
+
+--Version 1.09: Sept. 25--
 Get ready for this HUGE spooky new update:
 *NEW: What does the item look like? Well now you can know with pictures of ALL items*
 •Spacious new columns
@@ -9,7 +14,7 @@ Get ready for this HUGE spooky new update:
 •Bugs fixed on Word Online
 •Fixed bug on countdown
 •The witch has been reasled! NEW Halloween theme and ghostly new font!
-•Added Be Awesome and updated ranking/price
+•Added Be Awesome Poster and updated ranking/price
 Questions? Email me at zephan777@yahoo.com
 
 --Version 1.0155: Sept. 24--
