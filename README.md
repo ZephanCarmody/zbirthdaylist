@@ -1,7 +1,11 @@
 Zephan's 2016 Birthday List Change Log 
 UPDATED BIWEEKLY!
 
---Version 1.1 Sept.29--
+--Version 1.1001 Oct. 1--
+•Put presents in actual rank order
+•Fixed some small things
+
+--Version 1.1 Sept. 29--
 13 DAYS UNTIL 13th BIRTHDAY!
 •THE BIRTHDAY LIST IS NOW FINAL!
 •SAY GOODBYE TO BETA!
