@@ -1,8 +1,13 @@
 Zephan's 2016 Birthday List Change Log 
 UPDATED BIWEEKLY!
 
+
+--Version 1.1002 Oct. 7--
+•Changed some little things
+•Updated Word Online to latest version
+
 --Version 1.1001 Oct. 1--
-•Put presents in actual rank order
+Put presents in actual rank order
 •Fixed some small things
 
 --Version 1.1 Sept. 29--
