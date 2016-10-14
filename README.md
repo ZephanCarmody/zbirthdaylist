@@ -1,9 +1,9 @@
 Zephan's 2016 Birthday List Change Log 
-UPDATED BIWEEKLY!
+UPDATED TRIWEEKLY!
 
 --Version 1.11 Oct.14--
-Thank you for using Zephan's Birthday List 2016!
-We will be changing the app soon to Christmas List 2016
+NOTE: *Thank you for using Zephan's Birthday List 2016!
+We will be changing the app soon to Christmas List 2016*
 •Items with a strikethrough means that I got them
 Thank you for all the ideas and tips
 
