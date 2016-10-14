@@ -5,6 +5,7 @@ UPDATED TRIWEEKLY!
 NOTE: *Thank you for using Zephan's Birthday List 2016!
 We will be changing the app soon to Christmas List 2016*
 •Items with a strikethrough means that I got them
+•Total updated
 Thank you for all the ideas and tips
 
 --Version 1.1002 Oct. 7--
