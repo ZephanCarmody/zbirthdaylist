@@ -1,5 +1,16 @@
-Zephan's 2016 Birthday List Change Log 
-UPDATED TRIWEEKLY!
+Zephan's Birthday List 2017! Change Log 
+Updated Monthly!
+
+--Version 1.20001 Feb. 12th--
+•The name has been changed to Zephan's Birthday List 2017!
+•Minor updates coming soon :)
+•Discontuined Word Online due to low activity
+-Sorry for any inconvience this may have caused
+
+--Version 1.2 Jan. 8th--
+•The name has been changed to Zephan's 2017 Birthday List
+•Items and updates will slowly be rolled out
+-Thanks for your patience!
 
 --Version 1.11 Oct.14--
 NOTE: *Thank you for using Zephan's Birthday List 2016!
@@ -80,4 +91,4 @@ COMING SOON: Ranking of all items
 --Version 1.00: Sept. 4--
 •INITIAL RELEASE OF BETA
 
-THANK YOU FOR TAKING THE TIME TO READ AND PLEASE EMAIL ME WITH ANY QUESTIONS!!
+THANK YOU FOR TAKING THE TIME TO READ AND PLEASE EMAIL ME WITH ANY QUESTIONS
