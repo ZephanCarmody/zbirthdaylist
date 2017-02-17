@@ -1,16 +1,24 @@
 Zephan's Birthday List 2017! Change Log 
 Updated Monthly!
 
---Version 1.20001 Feb. 12th--
+--Version 1.30002 Feb. 16th--
+•New theme: St.Patrick's Day!
+•3 new items and total has been updated
+•Added months til birthday
+
+--Version 1.30001 Feb. 12th--
 •The name has been changed to Zephan's Birthday List 2017!
 •Minor updates coming soon :)
 •Discontuined Word Online due to low activity
 -Sorry for any inconvience this may have caused
 
---Version 1.2 Jan. 8th--
+--Version 1.3 Jan. 8th--
 •The name has been changed to Zephan's 2017 Birthday List
 •Items and updates will slowly be rolled out
 -Thanks for your patience!
+
+--Version 1.2 Oct. 20th-Dec. 29th--
+•Updates will not be logged please come back for B-day List
 
 --Version 1.11 Oct.14--
 NOTE: *Thank you for using Zephan's Birthday List 2016!
