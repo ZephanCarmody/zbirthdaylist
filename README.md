@@ -1,6 +1,13 @@
 Zephan's Birthday List 2017! Change Log 
 Updated Monthly!
 
+--Version 1.3001 Aug. 24th--
+•Removed Theme: St.Pactrick's Day
+•Removed 3 items
+•Made things easier to see
+•Added image of items
+•Added Popsocket, headphones, phoen carger, and phone case
+
 --Version 1.30002 Feb. 16th--
 •New theme: St.Patrick's Day!
 •3 new items and total has been updated
