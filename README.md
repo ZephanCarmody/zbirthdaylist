@@ -1,12 +1,19 @@
 Zephan's Birthday List 2017! Change Log 
 Updated Monthly!
 
+--Versoin 1.30011 Aug. 26th--
+*BETA HAS BEEN REMOVED*
+•Removed 1 item
+•Added goggles
+•Changed the way items that are coming soon are shown
+•Updated total
+
 --Version 1.3001 Aug. 24th--
 •Removed Theme: St.Pactrick's Day
 •Removed 3 items
 •Made things easier to see
 •Added image of items
-•Added Popsocket, headphones, phoen carger, and phone case
+•Added Popsocket, headphones, phone charger, and phone case
 
 --Version 1.30002 Feb. 16th--
 •New theme: St.Patrick's Day!
@@ -14,7 +21,7 @@ Updated Monthly!
 •Added months til birthday
 
 --Version 1.30001 Feb. 12th--
-•The name has been changed to Zephan's Birthday List 2017!
+•The name has been changed to Zephan's Birthday List 2017 BETA!
 •Minor updates coming soon :)
 •Discontuined Word Online due to low activity
 -Sorry for any inconvience this may have caused
