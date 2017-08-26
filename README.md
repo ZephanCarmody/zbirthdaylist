@@ -1,5 +1,5 @@
 Zephan's Birthday List 2017! Change Log 
-Updated Monthly!
+Updated Weekly!
 
 --Versoin 1.30011 Aug. 26th--
 *BETA HAS BEEN REMOVED*
