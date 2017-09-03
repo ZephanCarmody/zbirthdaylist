@@ -5,7 +5,8 @@ Updated Weekly!
 •Added special section and items
 •Added screen protector
 •Changed popsocket color
-•Updated and changed some things
+•Updated, organized and changed some things
+•Maintenance
 
 --Version 1.30012 Sept. 2nd--
 •Added UAG case
@@ -122,4 +123,4 @@ COMING SOON: Ranking of all items
 --Version 1.00: Sept. 4--
 •INITIAL RELEASE OF BETA
 
-THANK YOU FOR TAKING THE TIME TO READ AND PLEASE EMAIL ME WITH ANY QUESTIONS
+THANK YOU FOR READING THE CHANGES THAT HAVE OCCURRED! As always please email me if you have any questions.
