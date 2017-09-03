@@ -1,6 +1,15 @@
 Zephan's Birthday List 2017! Change Log 
 Updated Weekly!
 
+--Version 1.3002 Sept. 3rd--
+•Added special section and items
+•Added screen protector
+•Changed popsocket color
+•Updated and changed some things
+
+--Version 1.30012 Sept. 2nd--
+•Added UAG case
+
 --Versoin 1.30011 Aug. 26th--
 *BETA HAS BEEN REMOVED*
 •Removed 1 item
