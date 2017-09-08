@@ -1,6 +1,10 @@
 Zephan's Birthday List 2017! Change Log 
 Updated Weekly!
 
+--Version 1.30021
+•Added headphones
+•Added Swim Bag
+
 --Version 1.3002 Sept. 3rd--
 •Added special section and items
 •Added screen protector
