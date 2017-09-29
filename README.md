@@ -1,7 +1,10 @@
 Zephan's Birthday List 2017! Change Log 
 Updated Weekly!
 
---Version 1.30031 Sept 23rd--
+--Version 1.30032 Sept. 28th--
+•Updated items and changed preview
+
+--Version 1.30031 Sept. 23rd--
 •Added Ranking of items
 •Added Erasable Pens
 •Updates: Deleted Item and updated prices
