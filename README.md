@@ -1,6 +1,9 @@
 Zephan's Birthday List 2017! Change Log 
 Updated Weekly!
 
+--Version 1.200301 Sept. 30th--
+•Added Slides
+
 --Version 1.30032 Sept. 28th--
 •Updated items and changed preview
 
