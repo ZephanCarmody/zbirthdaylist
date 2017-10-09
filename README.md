@@ -1,12 +1,12 @@
 Zephan's Birthday List 2017! Change Log 
 ZEPHAN'S 2017 CHRISTMAS LIST COMING SOON!
 
---Version 1.20033
+--Version 1.30033
 •Added Some Items
 •Minor Changes
 *FINAL Version of Birthday List 2017*
 
---Version 1.200301 Sept. 30th--
+--Version 1.300301 Sept. 30th--
 •Added Slides
 
 --Version 1.30032 Sept. 28th--
