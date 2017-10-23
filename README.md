@@ -1,4 +1,6 @@
 Zephan's Christmas List 2017 BETA- Change Log 
+--Version 1.401 Oct. 22nd--
+•Added Medal Hanger
 
 --Version 1.300331/Version 1.4 Oct. 14th--
 *NOTE:CHANGED TO ZEPHAN'S CHRISTMAS LIST 2017 BETA*
