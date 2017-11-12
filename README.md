@@ -1,4 +1,10 @@
 Zephan's Christmas List 2017 BETA- Change Log 
+
+--Verion 1.41
+•Added Picture Hanger and Jacket
+•Updated Prices, Total, and colors
+•Added additional info column
+
 --Version 1.401 Oct. 22nd--
 •Added Medal Hanger
 
