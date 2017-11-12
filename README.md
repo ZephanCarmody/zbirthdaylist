@@ -1,6 +1,9 @@
 Zephan's Christmas List 2017 BETA- Change Log 
 
---Verion 1.41
+--Version 1.411 Nov. 12th--
+•Added OU Shirt
+
+--Version 1.41 Nov. 11th--
 •Added Picture Hanger and Jacket
 •Updated Prices, Total, and colors
 •Added additional info column
