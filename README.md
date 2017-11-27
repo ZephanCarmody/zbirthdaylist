@@ -1,5 +1,10 @@
 Zephan's Christmas List 2017 BETA- Change Log 
 
+--Version 1.42 Nov. 26th--
+•Added candy section
+•Deleted OU shirt
+•Updated items and layout
+
 --Version 1.411 Nov. 12th--
 •Added OU Shirt
 
