@@ -1,4 +1,11 @@
-Zephan's Christmas List 2017 BETA- Change Log 
+Zephan's Christmas List 2017 BETA- Change Log UPDATED WEEKLY!
+
+--Version 1.421  Dec. 2nd--
+•ADDED RANKING
+•Added calendar
+•Changed Medal Hanger
+•Improved candy section
+•Routine Checkup
 
 --Version 1.42 Nov. 26th--
 •Added candy section
