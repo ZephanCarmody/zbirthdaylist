@@ -1,5 +1,9 @@
 Zephan's Christmas List 2017 BETA- Change Log UPDATED WEEKLY!
 
+--Version 1.43 Dec. 7th--
+•Final version
+•Added stocking stuffers and gummy bears
+
 --Version 1.421  Dec. 2nd--
 •ADDED RANKING
 •Added calendar
