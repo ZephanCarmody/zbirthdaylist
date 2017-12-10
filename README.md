@@ -1,5 +1,9 @@
 Zephan's Christmas List 2017 FINAL- Change Log
 
+--Version 1.442 Dec. 10th--
+•Added Apple Watch
+•FINAL GIFTS are listed
+
 --Version 1.441 Dec. 9th--
 •Added sneak peek and extra information about list
 •Fixed spacing issues
