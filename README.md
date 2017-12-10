@@ -1,10 +1,15 @@
-Zephan's Christmas List 2017 BETA- Change Log UPDATED WEEKLY!
+Zephan's Christmas List 2017 FINAL- Change Log
 
---Version 1.43 Dec. 7th--
-•Final version
+--Version 1.441 Dec. 9th--
+•Added sneak peek and extra information about list
+•Fixed spacing issues
+•Minor changes and improvments
+
+--Version 1.44 Dec. 7th--
+•Finalized gifts
 •Added stocking stuffers and gummy bears
 
---Version 1.421  Dec. 2nd--
+--Version 1.431  Dec. 2nd--
 •ADDED RANKING
 •Added calendar
 •Changed Medal Hanger
