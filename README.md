@@ -1,4 +1,9 @@
-Zephan's Christmas List 2017 FINAL- Change Log
+Zephan's Birthday List 2018 Beta- Change Log
+
+------------------------------------------
+--Version 1.45 Dec. 26th--
+*ZEPHAN'S BIRTHDAY LIST 2018 COMING SOON!*
+•Items I got have a strikethrough
 
 --Version 1.442 Dec. 10th--
 •Added Apple Watch
