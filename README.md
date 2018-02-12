@@ -1,5 +1,8 @@
 Zephan's Birthday List 2018 Beta- Change Log
 
+--Version 1.5 Feburary 10th--
+•Set up document: Zephan's Birthday List 2018
+•Added iPad screen and TV
 ------------------------------------------
 --Version 1.45 Dec. 26th--
 *ZEPHAN'S BIRTHDAY LIST 2018 COMING SOON!*
