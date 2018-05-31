@@ -1,12 +1,19 @@
 Zephan's Birthday List 2018 Beta- Change Log
 
+--1.5021 May 31--
+Improved up the overall look and simplicity
+
+--Version 1.502 May 26th--
+•Removed some items
+•Added some items
+
 --Version 1.501 Feburary 19th--
 •Added Vans
 •Minor visual changes and updated total
 
 --Version 1.5 Feburary 10th--
 •Set up document: Zephan's Birthday List 2018
-•Added iPad screen and TV
+•Added some things
 ------------------------------------------
 --Version 1.45 Dec. 26th--
 *ZEPHAN'S BIRTHDAY LIST 2018 COMING SOON!*
@@ -19,7 +26,7 @@ Zephan's Birthday List 2018 Beta- Change Log
 --Version 1.441 Dec. 9th--
 •Added sneak peek and extra information about list
 •Fixed spacing issues
-•Minor changes and improvments
+•Minor changes and improvements
 
 --Version 1.44 Dec. 7th--
 •Finalized gifts
